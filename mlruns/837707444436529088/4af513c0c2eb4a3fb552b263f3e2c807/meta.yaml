@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/837707444436529088/4af513c0c2eb4a3fb552b263f3e2c807/artifacts
+end_time: 1755041840311
+entry_point_name: ''
+experiment_id: '837707444436529088'
+lifecycle_stage: active
+run_id: 4af513c0c2eb4a3fb552b263f3e2c807
+run_name: MLP_Keras_grid_all_datasets
+run_uuid: 4af513c0c2eb4a3fb552b263f3e2c807
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755041840261
+status: 4
+tags: []
+user_id: jorge

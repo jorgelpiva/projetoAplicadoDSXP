@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/837707444436529088/f62b7fab4f5a45f5b649bda81b63ac2c/artifacts
+end_time: 1755040900952
+entry_point_name: ''
+experiment_id: '837707444436529088'
+lifecycle_stage: active
+run_id: f62b7fab4f5a45f5b649bda81b63ac2c
+run_name: original__xgb
+run_uuid: f62b7fab4f5a45f5b649bda81b63ac2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755040884477
+status: 3
+tags: []
+user_id: jorge

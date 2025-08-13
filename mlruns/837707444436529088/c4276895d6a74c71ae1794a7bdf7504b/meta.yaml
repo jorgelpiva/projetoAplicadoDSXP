@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/837707444436529088/c4276895d6a74c71ae1794a7bdf7504b/artifacts
+end_time: 1755050530497
+entry_point_name: ''
+experiment_id: '837707444436529088'
+lifecycle_stage: active
+run_id: c4276895d6a74c71ae1794a7bdf7504b
+run_name: mlp__smote
+run_uuid: c4276895d6a74c71ae1794a7bdf7504b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755050515972
+status: 3
+tags: []
+user_id: jorge
