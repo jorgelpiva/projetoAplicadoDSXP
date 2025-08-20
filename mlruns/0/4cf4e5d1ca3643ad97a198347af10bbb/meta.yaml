@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/0/4cf4e5d1ca3643ad97a198347af10bbb/artifacts
+end_time: 1755565228133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cf4e5d1ca3643ad97a198347af10bbb
+run_name: testes_previsoes
+run_uuid: 4cf4e5d1ca3643ad97a198347af10bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755565228107
+status: 4
+tags: []
+user_id: jorge
