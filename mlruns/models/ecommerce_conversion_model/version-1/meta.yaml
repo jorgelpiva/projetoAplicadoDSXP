@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1755735637242
+current_stage: Staging
+description: null
+last_updated_timestamp: 1755735637253
+name: ecommerce_conversion_model
+run_id: 32ccfdbd7c12456d915c856642fc31b1
+run_link: null
+source: file:///D:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/515774001739946753/32ccfdbd7c12456d915c856642fc31b1/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///D:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/515774001739946753/32ccfdbd7c12456d915c856642fc31b1/artifacts/model
+user_id: null
+version: 1

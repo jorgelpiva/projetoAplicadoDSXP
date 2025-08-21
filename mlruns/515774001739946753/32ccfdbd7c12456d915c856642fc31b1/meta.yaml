@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/515774001739946753/32ccfdbd7c12456d915c856642fc31b1/artifacts
+end_time: 1755735619505
+entry_point_name: ''
+experiment_id: '515774001739946753'
+lifecycle_stage: active
+run_id: 32ccfdbd7c12456d915c856642fc31b1
+run_name: retrain__rf_undersample
+run_uuid: 32ccfdbd7c12456d915c856642fc31b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755735609883
+status: 3
+tags: []
+user_id: jorge
