@@ -1,8 +1,9 @@
 artifact_uri: file:///D:/Drive/Academico/DataScience_XP/ProjetoAplicado/projetoAplicadoDSXP/mlruns/564390198387613937/3febc90b1b40449193f36def324481ae/artifacts
+deleted_time: 1755737265619
 end_time: 1755727728800
 entry_point_name: ''
 experiment_id: '564390198387613937'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3febc90b1b40449193f36def324481ae
 run_name: prod_sim__mlp__under
 run_uuid: 3febc90b1b40449193f36def324481ae
